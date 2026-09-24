@@ -1,8 +1,8 @@
 using System.Buffers.Binary;
+using AampSharp;
 using BymlSharp;
 using SarcSharp;
 using UMiiSharp;
-using UMiiSharp.Aamp;
 using ZsDicSharp;
 
 // Round trips every UMii in both games:

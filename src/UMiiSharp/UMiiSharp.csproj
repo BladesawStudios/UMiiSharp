@@ -13,6 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\AampSharp\src\AampSharp\AampSharp.csproj" />
     <ProjectReference Include="..\..\..\BymlSharp\src\BymlSharp\BymlSharp.csproj" />
   </ItemGroup>
 

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarcSharp", "..\SarcSharp\s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZsDicSharp", "..\ZsDicSharp\src\ZsDicSharp\ZsDicSharp.csproj", "{EC00FBA4-B344-4510-908B-71DFAD0DD709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AampSharp", "..\AampSharp\src\AampSharp\AampSharp.csproj", "{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,18 @@ Global
 		{EC00FBA4-B344-4510-908B-71DFAD0DD709}.Release|x64.Build.0 = Release|Any CPU
 		{EC00FBA4-B344-4510-908B-71DFAD0DD709}.Release|x86.ActiveCfg = Release|Any CPU
 		{EC00FBA4-B344-4510-908B-71DFAD0DD709}.Release|x86.Build.0 = Release|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Release|x64.Build.0 = Release|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{BCC73555-79BD-49AD-B24A-17DCCB9D53DA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

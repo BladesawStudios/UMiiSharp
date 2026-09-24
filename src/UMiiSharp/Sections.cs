@@ -1,6 +1,6 @@
 using System.Numerics;
+using AampSharp;
 using BymlSharp;
-using UMiiSharp.Aamp;
 
 namespace UMiiSharp;
 

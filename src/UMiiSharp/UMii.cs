@@ -1,5 +1,5 @@
+using AampSharp;
 using BymlSharp;
-using UMiiSharp.Aamp;
 
 namespace UMiiSharp;
 

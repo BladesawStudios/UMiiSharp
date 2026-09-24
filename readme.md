@@ -69,8 +69,8 @@ dotnet run --project tests/UMiiSharp.Verify -- --botw <botw romfs> --totk <totk 
 dotnet build UMiiSharp.sln -c Release
 ```
 
-The library references BymlSharp from the sibling folder. The verify harness also references
-SarcSharp and ZsDicSharp.
+The library references AampSharp and BymlSharp from the sibling folders. The verify harness also
+references SarcSharp and ZsDicSharp.
 
 ## Licence
 
