@@ -66,10 +66,11 @@ dotnet run --project tests/UMiiSharp.Verify -- --botw <botw romfs> --totk <totk 
 ## Build
 
 ```bash
+git submodule update --init --recursive
 dotnet build UMiiSharp.sln -c Release
 ```
 
-The library references AampSharp and BymlSharp from the sibling folders. The verify harness also
+The library references AampSharp and BymlSharp as submodules under `lib/`. The verify harness also
 references SarcSharp and ZsDicSharp.
 
 ## Licence
