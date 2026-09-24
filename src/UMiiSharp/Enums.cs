@@ -9,7 +9,6 @@ public enum Race
     Hylia,
     Korog,
     Goron,
-    /// <summary>Sheikah. The game spells it this way.</summary>
     Shiekah,
     Gerudo,
     Zora,
