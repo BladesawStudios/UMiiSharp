@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- A local harness, not a unit test project: it needs BotW and TotK romfs dumps to say anything. -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\UMiiSharp\UMiiSharp.csproj" />
+    <ProjectReference Include="..\..\..\SarcSharp\src\SarcSharp\SarcSharp.csproj" />
+    <ProjectReference Include="..\..\..\ZsDicSharp\src\ZsDicSharp\ZsDicSharp.csproj" />
+  </ItemGroup>
+
+</Project>
